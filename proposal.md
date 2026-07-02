@@ -49,8 +49,8 @@ Levin's lab has publicly stated that the lack of large, standardized bioelectric
 - **Weeks 6–8:** inverse-design bonus (BETSE-in-the-loop scoring).
 - **Week 9:** final eval, dataset/tool release, writeup.
 
-## Professor hook
-Uses **Michael Levin's own simulator (BETSE) and database (PlanformDB)**, directly advances his anatomical-compiler program, and produces a reusable open asset his field lacks. Strong basis to invite him as advisor/co-organizer.
+## Related Professor
+Uses **Michael Levin's own simulator (BETSE) and database (PlanformDB)**, directly advances his anatomical-compiler program, and produces a reusable open asset his field lacks.
 
 ## Links & resources
 - BETSE: [github.com/betsee/betse](https://github.com/betsee/betse) · [BETSE paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC4933718/)
@@ -91,8 +91,8 @@ Individual SPARC VNS datasets are **small-n animals** (e.g., #349 = 2 pigs). Two
 - **Weeks 6–8:** cross-animal/species generalization track.
 - **Week 9:** final eval + a "recommended safe-parameter map" deliverable.
 
-## Professor hook
-Targets **Kip Ludwig's** exact research (VNS, baroreflex, closed-loop neuromodulation) and uses SPARC data his lab co-produces — the first ML benchmark on those recordings. Natural WITNe advisor ask.
+## Related Professor
+Targets **Kip Ludwig's** exact research (VNS, baroreflex, closed-loop neuromodulation) and uses SPARC data his lab co-produces — the first ML benchmark on those recordings.
 
 ## Links & resources
 - SPARC: [#349](https://discover.pennsieve.io/datasets/349) · [#305](https://discover.pennsieve.io/datasets/305) · [#375](https://discover.pennsieve.io/datasets/375) · [portal](https://sparc.science/)
@@ -131,7 +131,7 @@ Naive "does this sequence contain a G4 motif" is a regex — uninteresting. But 
 - **Weeks 6–8:** DNA-LM fine-tuning; cross-species track.
 - **Week 9:** final eval + motif/feature-importance writeup.
 
-## Professor hook
+## Related Professor
 Built entirely on **Ilias Georgakopoulos-Soares's own databases**, which his lab publishes for community ML use. Cleanest big-data option; beginner on-ramp (k-mer) with an advanced ceiling (DNA LMs).
 
 ## Links & resources
@@ -177,8 +177,8 @@ Three grader types, mirroring BixBench + adding objective checks:
 - **Weeks 7–8:** hardening, held-out task set, wall-clock study.
 - **Week 9:** release harness + benchmark + report.
 
-## Professor hook
-Lab-agnostic infrastructure: **every advisor here becomes a task-contributor and a user** (a Ludwig VNS task, a Levin BETSE task, a WISC PCI task). Positions the team as owners of shared neuro tooling.
+## Related Professor
+There isn't one. Lab-agnostic infrastructure: **every advisor here becomes a task-contributor and a user** (a Ludwig VNS task, a Levin BETSE task, a WISC PCI task). Positions the team as owners of shared neuro tooling.
 
 ## Links & resources
 - Prior art: [BixBench](https://arxiv.org/abs/2503.00096) · ScienceAgentBench · MLE-bench · [EEGDash](https://arxiv.org/pdf/2606.16041)
