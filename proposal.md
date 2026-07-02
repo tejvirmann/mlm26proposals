@@ -1,10 +1,10 @@
-# MLM26 — Final Proposals
+# MLM26 — Proposals
 
-*Four project proposals (bioelectricity · neuromodulation · genomics · AI harness), each pressure-tested for data feasibility and formatted like the ML-X-Nexus "Brain-to-Text '25" example. Companion background: [research/proposals_v2.md](research/proposals_v2.md), [research/landscape_datasets_benchmarks.md](research/landscape_datasets_benchmarks.md).*
+*Four project proposals (bioelectricity · neuromodulation · genomics · AI harness).
 
 ---
 
-## Pressure-test summary (read this first)
+## Summary
 
 | # | Proposal | Feasibility | Biggest risk | Fix applied |
 |---|---|---|---|---|
