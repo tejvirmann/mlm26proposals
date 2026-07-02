@@ -1,3 +1,6 @@
+# Ignore all folders/subdirectories — only track top-level files (proposal.md, README.md, .gitignore)
+*/
+
 # macOS
 .DS_Store
 .AppleDouble
