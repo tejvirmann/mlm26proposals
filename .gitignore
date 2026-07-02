@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python (in case baseline notebooks/scripts get added later)
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Data & model artifacts (keep the repo lightweight — these belong on Kaggle/DANDI/SPARC)
+data/
+datasets/
+*.csv
+*.tsv
+*.parquet
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.nwb
+*.mat
+*.ckpt
+*.pt
+*.pth
+
+# Scratch / temp
+scratch/
+tmp/
+*.log
